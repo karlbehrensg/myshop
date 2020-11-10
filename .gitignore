@@ -8,3 +8,5 @@ __pycache__/
 variables.py
 .idea/
 media/
+*.pdf
+static/
